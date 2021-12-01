@@ -19,7 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="87198aa6-4fac-44cd-a239-f31b32a98bf1" name="Default Changelist" comment="" />
+    <list default="true" id="87198aa6-4fac-44cd-a239-f31b32a98bf1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/my_twint.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/my_twint.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_twint/twint_wrapper.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_twint/twint_wrapper.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +37,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/my_twint" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="21FLm8e16avBuMHbyZBwgkaWsIm" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -51,7 +55,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.setup">
+  <component name="RunManager" selected="Python.twint_wrapper">
     <configuration name="setup" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="my_twint" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -117,9 +121,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.twint_wrapper" />
         <item itemvalue="Python.setup" />
         <item itemvalue="Python.twint_wrapper (1)" />
-        <item itemvalue="Python.twint_wrapper" />
       </list>
     </recent_temporary>
   </component>
@@ -154,22 +158,26 @@
       <screen x="0" y="25" width="2560" height="1330" />
     </state>
     <state x="587" y="438" key="FileChooserDialogImpl/-1792.193.1792.1095/0.25.2560.1330@0.25.2560.1330" timestamp="1637533531414" />
-    <state width="2539" height="378" key="GridCell.Tab.0.bottom" timestamp="1637551383686">
+    <state width="2539" height="464" key="GridCell.Tab.0.bottom" timestamp="1638314800840">
       <screen x="0" y="25" width="2560" height="1330" />
     </state>
     <state width="2539" height="378" key="GridCell.Tab.0.bottom/-1792.193.1792.1095/0.25.2560.1330@0.25.2560.1330" timestamp="1637551383686" />
-    <state width="2539" height="378" key="GridCell.Tab.0.center" timestamp="1637551383685">
+    <state width="2539" height="464" key="GridCell.Tab.0.bottom/0.25.2560.1330/-1792.122.1792.1095/2560.25.1920.1055@0.25.2560.1330" timestamp="1638314800840" />
+    <state width="2539" height="464" key="GridCell.Tab.0.center" timestamp="1638314800840">
       <screen x="0" y="25" width="2560" height="1330" />
     </state>
     <state width="2539" height="378" key="GridCell.Tab.0.center/-1792.193.1792.1095/0.25.2560.1330@0.25.2560.1330" timestamp="1637551383685" />
-    <state width="2539" height="378" key="GridCell.Tab.0.left" timestamp="1637551383684">
+    <state width="2539" height="464" key="GridCell.Tab.0.center/0.25.2560.1330/-1792.122.1792.1095/2560.25.1920.1055@0.25.2560.1330" timestamp="1638314800840" />
+    <state width="2539" height="464" key="GridCell.Tab.0.left" timestamp="1638314800839">
       <screen x="0" y="25" width="2560" height="1330" />
     </state>
     <state width="2539" height="378" key="GridCell.Tab.0.left/-1792.193.1792.1095/0.25.2560.1330@0.25.2560.1330" timestamp="1637551383684" />
-    <state width="2539" height="378" key="GridCell.Tab.0.right" timestamp="1637551383685">
+    <state width="2539" height="464" key="GridCell.Tab.0.left/0.25.2560.1330/-1792.122.1792.1095/2560.25.1920.1055@0.25.2560.1330" timestamp="1638314800839" />
+    <state width="2539" height="464" key="GridCell.Tab.0.right" timestamp="1638314800840">
       <screen x="0" y="25" width="2560" height="1330" />
     </state>
     <state width="2539" height="378" key="GridCell.Tab.0.right/-1792.193.1792.1095/0.25.2560.1330@0.25.2560.1330" timestamp="1637551383685" />
+    <state width="2539" height="464" key="GridCell.Tab.0.right/0.25.2560.1330/-1792.122.1792.1095/2560.25.1920.1055@0.25.2560.1330" timestamp="1638314800840" />
     <state x="568" y="506" key="SettingsEditor" timestamp="1637550402809">
       <screen x="0" y="25" width="2560" height="1330" />
     </state>
@@ -186,6 +194,11 @@
           <url>file://$PROJECT_DIR$/setup.py</url>
           <line>9</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/my_twint/twint_wrapper.py</url>
+          <line>56</line>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
